@@ -1,3 +1,2 @@
 # Invest
-
-## Responsive website using GRID
+Responsive website using GRID
